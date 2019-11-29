@@ -1,1 +1,1 @@
-export const STORAGE = 'ino.nectecpm'; 
+export const STORAGE = '<Storage>'; 
